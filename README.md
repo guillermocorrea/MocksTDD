@@ -1,5 +1,5 @@
 # MocksTDD
-An example project that demostrates the use of the Moq library in unit tests.
+An example project that demonstrates the use of the Moq library in unit tests.
 
 ##The requirement (aka) The user story
 
